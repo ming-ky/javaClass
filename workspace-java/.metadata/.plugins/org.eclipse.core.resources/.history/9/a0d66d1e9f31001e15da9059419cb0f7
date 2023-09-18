@@ -1,0 +1,22 @@
+package kr.co.himedia.stream04;
+
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileWriterTest {
+
+	public static void main(String[] args) {
+		
+		try(FileWriter fw = new FileWriter("wirte.txt")){
+			
+			fw.write('A');
+			
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		
+		System.out.println("출력을 완료 했습니다.");
+
+	}
+
+}

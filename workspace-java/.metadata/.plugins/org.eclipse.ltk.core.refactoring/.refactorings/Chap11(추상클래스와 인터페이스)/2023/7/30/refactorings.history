@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kr.co.himedia.review.Mysql&apos; to &apos;MysqlDriver&apos;&#x0D;&#x0A;- Original project: &apos;Chapter11(추상클래스와 인터페이스)&apos;&#x0D;&#x0A;- Original element: &apos;kr.co.himedia.review.Mysql&apos;&#x0D;&#x0A;- Renamed element: &apos;kr.co.himedia.review.MysqlDriver&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Mysql&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kr.co.himedia.review{Mysql.java[Mysql" matchStrategy="1" name="MysqlDriver" qualified="false" references="true" similarDeclarations="false" stamp="1690162686109" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kr.co.himedia.HI&apos; to &apos;Hi&apos;&#x0D;&#x0A;- Original project: &apos;Chap00(Hi)&apos;&#x0D;&#x0A;- Original element: &apos;kr.co.himedia.HI&apos;&#x0D;&#x0A;- Renamed element: &apos;kr.co.himedia.Hi&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HI&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kr.co.himedia{HI.java[HI" matchStrategy="1" name="Hi" qualified="false" references="true" similarDeclarations="false" stamp="1688438120202" textual="false" version="1.0"/>
+</session>

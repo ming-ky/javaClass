@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Chapter11(추상클래스와 인터페이스)&apos; to &apos;Chap11(추상클래스와 인터페이스)&apos;" description="Rename resource &apos;Chapter11(추상클래스와 인터페이스)&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Chapter11(추상클래스와 인터페이스)" name="Chap11(추상클래스와 인터페이스)" stamp="1690177902514" updateReferences="true"/>
+</session>
